@@ -8,7 +8,7 @@ Je suis un étudiant passionné par les sciences et la technologie, en particuli
 - 🎓 Mes projets à venir sont liés à au développement WEB d'un PortFolio
 
 ## Compétences
-- **Langages de programmation** : Python, JS, discord.py
+- **Langages de programmation** : Python, JS, CSS, HTML
 - **Intelligence Artificielle** : ChatGPT, Claude, WebSim
 - **Logiciels** : Visual Studio Code, Replit
 - **Autres compétences** : Travail en équipe, gestion de projets
