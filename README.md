@@ -30,3 +30,5 @@ Je suis un étudiant passionné par les sciences et la technologie, en particuli
 - 💬 **Discord** : _mrNathan
 
 > *"Le seul moyen de faire du bon travail, c'est d'aimer ce que vous faites." - Steve Jobs*
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
