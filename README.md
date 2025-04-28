@@ -2,10 +2,10 @@
 Je suis un étudiant passionné par les sciences et la technologie, en particulier les **mathématiques**, la **physique** et l'**intelligence artificielle**, actuellement au lycée !
 
 ## À propos de moi
-- 🔭 Je travaille actuellement sur des projets personnels comme des bots **WhatsApp** ou des applications variées.
+- 🔭 Je travaille actuellement sur des projets personnels comme des bots **WhatsApp** ou **Discord**.
+- 🎓 Je travaille également sur des projets qui sont liés au développement WEB, notamment à la création d'un **portfolio intéractif**.
 - 🌱 Je me perfectionne en **Python** et en **JavaScript**.
 - 📚 Je me passionne pour tout ce qui touche à l'automatisation et à l'**intelligence artificielle** (IA).
-- 🎓 Mes projets à venir sont liés au développement WEB, notamment à la création d'un **portfolio**.
 
 ## Compétences
 - **Langages de programmation** : JavaScript, CSS, HTML et Les Bases du Python
@@ -15,7 +15,7 @@ Je suis un étudiant passionné par les sciences et la technologie, en particuli
 
 
 
-## Me contacter
+## Me contacter ?
 
 - 📧 **Email** : NatSNB68@gmail.com
 - 💬 **Discord** : _mrNathan
