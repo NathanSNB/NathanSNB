@@ -10,7 +10,7 @@ Je suis un étudiant passionné par les sciences et la technologie, en particuli
 ## 🚀 Compétences
 
 ### 🖥️ Langages de programmation :
-- Node.js, CSS, HTML, Python
+- Node.js, CSS, HTML, Python, C
 
 ### 🤖 Intelligence Artificielle :
 - Utilisation de modèles IA tels que **ChatGPT**, **Claude** et **WebSim**, avec une initiation au **prompt engineering** pour optimiser l'interaction et l'exploitation des modèles d'intelligence artificielle.
