@@ -1,34 +1,55 @@
-# Bonjour, je suis Nathan 👋
-Je suis un étudiant passionné par les sciences et la technologie, en particulier les **mathématiques**, la **physique** et l'**intelligence artificielle**, actuellement au lycée !
+<!-- Photo de profil -->
+<p align="center">
+  <img src="https://github.com/NathanSNB/NathanSNB/blob/main/assets/pp.png" alt="Nathan" width="180" style="border-radius:50%"/>
+</p>
 
-## À propos de moi
-- 🔭 Je travaille actuellement sur des projets personnels comme des bots **WhatsApp** ou **Discord**.
-- 🎓 Je travaille également sur des projets qui sont liés au développement WEB, notamment à la création d'un **portfolio intéractif**.
-- 🌱 Je me perfectionne en **Python** et en **JavaScript**.
-- 📚 Je me passionne pour tout ce qui touche à l'automatisation et à l'**intelligence artificielle** (IA).
+<h1 align="center">Salut, moi c’est Nathan 👋</h1>
 
-## 🚀 Compétences
+<p align="center">
+  Lycéen passionné par les <b>maths</b>, la <b>physique</b> et <b>l’informatique</b>.  
+  J’aime découvrir de nouvelles technologies et faire des projets persos 🚀
+</p>
 
-### 🖥️ Langages de programmation :
-- Node.js, CSS, HTML, Python, C
+---
 
-### 🤖 Intelligence Artificielle :
-- Utilisation de modèles IA tels que **ChatGPT**, **Claude** et **WebSim**, avec une initiation au **prompt engineering** pour optimiser l'interaction et l'exploitation des modèles d'intelligence artificielle.
+## 📌 Ce que je fais en ce moment
+- 🎓 Participation au **CS50 de Harvard**  
+  - Apprentissage du **C**  
+  - Perfectionnement en **Python**  
+  - Projet final : algorithme de reconnaissance d'image  
+- 🤖 Création d'un **bot WhatsApp** spécialisé dans la gestion d’emplois du temps  
+- 🛠️ Développement de mon premier **bot Discord**  
 
-### 🔧 Automatisation :
-- Développement de scripts d'automatisation simples permettant l'envoi de messages, la gestion d'événements automatisés et l'interaction intelligente sur des plateformes telles que **WhatsApp** et **Discord**.
+---
 
-### 🛠️ Outils et logiciels :
-- Maîtrise de **Visual Studio Code** pour le développement et le débogage avancé, utilisation ponctuelles de **Replit** pour des projets collaboratifs et personnels, compétences en **Canva** (allant du design graphique de base à l'exploration de fonctionnalités avancées), et gestion approfondie de **Discord**, incluant la création complète de serveurs communautaires ainsi que leurs gestions, leur animation, et du développement et la gestion de bots personnalisés pour l'automatisation et l'amélioration de l'UX client.
+## 🖥️ Langages & Outils
 
-### 🤝 Autres compétences :
-- Capacité éprouvée à collaborer de manière efficace au sein d'équipes variées, en contribuant activement à la définition des objectifs, à l'organisation méthodologique et à la mise en œuvre stratégique de projets, depuis leur conception initiale jusqu'à l'atteinte de leurs finalités.
+<p>
+  <!-- Langages -->
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-## Me contacter ?
+<p>
+  <!-- Outils -->
+  <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+</p>
 
-- 📧 **Email** : NatSNB68@gmail.com
-- 💬 **Discord** : _mrNathan
+---
 
-> *"Le seul moyen de faire du bon travail, c'est d'aimer ce que vous faites." - Steve Jobs*
+## 📫 Me contacter
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+- 📧 **Email** : [NatSNB68@gmail.com](mailto:NatSNB68@gmail.com)  
+- 🌐 **Portfolio** : [natSNB68.tech](https://natsnb68.tech)  
+- 💬 **Discord** : _mrNathan  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220" alt="Code"/>
+</div>
